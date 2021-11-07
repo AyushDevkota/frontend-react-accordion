@@ -46,6 +46,7 @@ main {
 	background-color: #fff;
 	max-width: 900px;
 	width: 90%;
+	height: 45em;
 	padding: 3rem 0;
 	border-radius: 1em;
 	display: flex;
