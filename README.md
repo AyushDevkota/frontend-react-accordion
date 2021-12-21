@@ -1,1 +1,1 @@
-[Live url] (https://ayush-react-accordion.netlify.app/)
+[Live url](https://ayush-react-accordion.netlify.app/)
